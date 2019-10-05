@@ -1,4 +1,4 @@
-# Gocomo Tech Challenge
+# Influencer Widget
 
 ## Purpose
 The project displays a frontend widget for a list of Influencers that a user might be interested to follow. Once the follow action is performed by clicking the follow button, the related Influencer is removed from the list.
